@@ -15,13 +15,6 @@ A simple and secure password generator with both GUI and CLI interfaces.
 
 ![Password Generator GUI](password_gui.png)
 
-## Usage
-
-Run the program:
-```bash
-python password_generator.py
-```
-
 Choose your interface:
 - **Option 1**: GUI (Graphical Interface)
 - **Option 2**: CLI (Command Line)
